@@ -56,3 +56,19 @@ body{
     color: white;
     font-weight: bolder;
 }
+ul>li{
+    list-style:none;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: blueviolet;
+    width:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+
+}
